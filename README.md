@@ -1,8 +1,5 @@
-**🏫 &nbsp; Seoul Women's Univ.</br>
-📚 &nbsp; Degital Media & Software Convergence </br>
-💻 &nbsp; iOS developer </br>
-📫 &nbsp; melon2228@gmail.com </br>**
-
+<a href="https://borabong.tistory.com/"> <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Swift&logoColor=white"/> </a> 
+<a href="https://short-success-6aa.notion.site/Jieun-Hwang-c5ef29667c50413c83d950b6fc07ae1c"> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/> </a>
 ### ✏️ Skills 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -24,11 +21,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hwangJi-dev&show_icons=true&count_private=true&line_height=20&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangJi-dev&layout=compact&theme=dracula)
-<br>
+<br><br>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhwangJi-dev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://github.com/hwangJi-dev"><img src="https://img.shields.io/github/followers/hwangJi-dev?logoColor=%5C&style=social"/> </a> 
- <a href="https://borabong.tistory.com/"> <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Swift&logoColor=white"/> </a> 
-<a href="https://short-success-6aa.notion.site/Jieun-Hwang-c5ef29667c50413c83d950b6fc07ae1c"> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/> </a>
 </div>
