@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **hwangJi-dev/hwangJi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=hwangJi-dev&fontSize=60)
+<br>
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhwangJi-dev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=swift.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br><br><br><br><br>
+</div>
