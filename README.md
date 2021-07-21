@@ -1,4 +1,3 @@
-## 🐰 hwangJi-dev 🐰
 **🏫 &nbsp; Seoul Women's Univ.</br>
 📚 &nbsp; Degital Media & Software Convergence </br>
 💻 &nbsp; iOS developer </br>
@@ -25,7 +24,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hwangJi-dev&show_icons=true&count_private=true&line_height=20&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangJi-dev&layout=compact&theme=dracula)
-
+<br>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhwangJi-dev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
